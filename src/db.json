@@ -1,0 +1,23 @@
+{
+    "doctors": [
+      { "id": 1, "name": "Dr. Smith" },
+      { "id": 2, "name": "Dr. Johnson" },
+      { "id": 3, "name": "Dr. Williams" },
+      { "id": 4, "name": "Dr. Brown" }
+    ],
+    "patients": [
+      { "name": "John Doe", "age": 30, "contact": "1234567890", "doctorId": 1 },
+      { "name": "Jane Smith", "age": 25, "contact": "0987654321", "doctorId": 1 },
+      { "name": "Alice Johnson", "age": 28, "contact": "1122334455", "doctorId": 1 },
+      { "name": "Bob Brown", "age": 35, "contact": "6677889900", "doctorId": 2 },
+      { "name": "Charlie Davis", "age": 40, "contact": "2233445566", "doctorId": 2 },
+      { "name": "Diana Prince", "age": 32, "contact": "3344556677", "doctorId": 2 },
+      { "name": "Eve Adams", "age": 29, "contact": "4455667788", "doctorId": 3 },
+      { "name": "Frank Castle", "age": 45, "contact": "5566778899", "doctorId": 3 },
+      { "name": "Grace Hopper", "age": 50, "contact": "6677889900", "doctorId": 3 },
+      { "name": "Hank Pym", "age": 55, "contact": "7788990011", "doctorId": 4 },
+      { "name": "Ivy League", "age": 60, "contact": "8899001122", "doctorId": 4 },
+      { "name": "Jack Sparrow", "age": 65, "contact": "9900112233", "doctorId": 4 }
+    ]
+  }
+  
